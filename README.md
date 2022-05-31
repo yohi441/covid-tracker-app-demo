@@ -9,7 +9,12 @@ Learn to fetch third party API using Vue.js <br />
 Learn the basics of Vue.js <br />
 Learn to how make single page application <br />
 
+## This project was created with:
+* Vue.js
+* tailwindcss
 
+## API use
+https://covid19api.com/
 
 
 ## Project setup
