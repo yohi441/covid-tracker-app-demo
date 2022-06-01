@@ -44,7 +44,7 @@
           leave-from-class=""
           leave-to-class="transform -translate-y-3 opacity-0"
         >
-          <div v-if="showNewCases" class="items-center w-full py-6 bg-green-200 top-12">
+          <div v-if="showNewCases" class="items-center w-full py-6 bg-green-200">
             <div class="flex items-center justify-center">
               {{ numberWithCommas(stats.NewConfirmed) }}
             </div>
@@ -78,7 +78,7 @@
           leave-from-class=""
           leave-to-class="transform -translate-y-3 opacity-0"
         >
-          <div v-if="showNewDeaths" class="w-full py-6 bg-red-200 top-12">
+          <div v-if="showNewDeaths" class="w-full py-6 bg-red-200">
             <div class="flex flex-col items-center justify-center">
               {{ numberWithCommas(stats.NewDeaths) }}
             </div>
