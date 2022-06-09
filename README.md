@@ -17,6 +17,13 @@ Learn to how make single page application <br />
 https://covid19api.com/
 
 
+## This project is hosted:
+* netlify.com
+
+## Link of the app:
+https://covid-lava.netlify.app
+
+
 ## Project setup
 ```
 yarn install
