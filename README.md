@@ -14,7 +14,7 @@ Learn to how make single page application <br />
 * tailwindcss
 
 ## API use
-https://covid19api.com/
+https://covid-lava.herokuapp.com/
 
 
 ## This project is hosted:
