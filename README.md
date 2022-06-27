@@ -14,14 +14,14 @@ Learn to how make single page application <br />
 * tailwindcss
 
 ## API use
-https://covid-lava.herokuapp.com/
+https://covid19api.com/
 
 
 ## This project is hosted:
 * netlify.com
 
 ## Link of the app:
-https://covid-lava.netlify.app
+https://covid-lava.herokuapp.com/
 
 
 ## Project setup
